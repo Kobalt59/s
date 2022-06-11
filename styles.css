@@ -1,0 +1,17 @@
+body {
+    background-color:#79f;
+    
+    font-size:16px;
+    font-weight: normal;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Veranda, sans-serif;}
+
+h1 {color:RoyalBlue}
+
+.p { 
+    height: auto; 
+    max-width: 600px}
+
+.t {max-width: 600px}
+
+.cont {max-width: 600px; margin: auto}
+
